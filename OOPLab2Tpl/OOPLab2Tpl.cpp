@@ -12,7 +12,7 @@ using namespace std;
 int main()
 {
     cout << "OOP. Template for laboratory work #2.\n";
-
+    cout << endl;
     char ch = '5';
     do {
         system("cls");
